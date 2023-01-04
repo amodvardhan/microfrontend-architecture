@@ -1,1 +1,1 @@
-# microfrontend-architecture
+# microfrontend-architectures
