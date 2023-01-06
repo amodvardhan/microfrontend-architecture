@@ -49,6 +49,7 @@ bower_components
 .sass-cache
 connect.lock
 typings
+*-lock.json
 
 # Logs
 logs
